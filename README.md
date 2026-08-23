@@ -5,7 +5,7 @@
 Data Scientist / ML Engineer building deep-learning pipelines, enterprise data warehouses, and real-time analytics systems that turn research into results.
 
 **🔭 I'm currently working on**
-Developing PCMPy, a deep-learning pipeline for evolutionary model classification using neural networks and phylogenetic data | Building enterprise data warehouses and ETL pipelines, helping my professor secure a $250K USD grant | Driving assortment analytics automation at Walmart (back-wrapping tools, Dataiku pipelines, trait validation scripts)
+Driving assortment analytics automation at Walmart (back-wrapping tools, Dataiku pipelines, trait validation scripts) | Developing PCMPy, a deep-learning pipeline for evolutionary model classification using neural networks and phylogenetic data | Building enterprise data warehouses and ETL pipelines, helping my professor secure a $250K USD grant
 
 **👯 I'm looking to collaborate on**
 Machine learning projects in large-scale data engineering solutions, and real-time analytics systems | Open-source tools for data analysis and visualization | Cloud-native ETL and dimensional modeling projects
