@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & ML Engineer turning research into production-grade data systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Designing+enterprise+data+warehouses+%26+ETL+pipelines;Building+PCMPy+%E2%80%94+deep+learning+for+phylogenetics;Helped+secure+%24250K+in+research+grant+funding;Turning+messy+data+into+real-time+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+PCMPy+%E2%80%94+deep+learning+for+phylogenetics;Designing+enterprise+data+warehouses+%26+ETL+pipelines;Helped+secure+%24250K+in+research+grant+funding;Turning+messy+data+into+real-time+decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,14 +10,17 @@
   <a href="mailto:surbhitwork15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
 ---
 
 ### 🔭 What I'm building right now
 
-- **Assortment analytics automation at Walmart** — back-wrapping tools, Dataiku ingestion pipelines, and trait validation scripts cutting manual review time by up to 94%
 - **PCMPy** — a deep-learning pipeline that classifies evolutionary models (Brownian Motion vs. Ornstein-Uhlenbeck) from phylogenetic trait data, hitting **99% test accuracy** with a ReLU(6)/SoftMax/Adam stack, dropout, and batch norm
 - **Enterprise data warehouses & ETL pipelines** at the University of Arkansas, work that helped my professor secure **$250K** in research grant funding
-
+- **Assortment analytics automation at Walmart** — back-wrapping tools, Dataiku ingestion pipelines, and trait validation scripts cutting manual review time by up to 94%
 
 ### 👯 Looking to collaborate on
 
@@ -81,3 +84,9 @@ I led my university's sports team to an **Inter-NIT championship** while simulta
 <p align="center">
   📫 <b>surbhitwork15@gmail.com</b> &nbsp;|&nbsp; <a href="https://github.com/YOUR-USERNAME">GitHub</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
 </p>
+
+<!--
+  📝 Note: the quote widget above refreshes with a new random dev quote every time your
+  profile page loads. If you'd rather have a rotating "fun fact / random thought" of your
+  own instead of a generic dev quote, just tell me and I'll swap it for a custom list.
+-->
