@@ -1,22 +1,32 @@
 # 💫 About Me:
 
-**🔭 I'm currently working on**  
-Developing PCMPy, a deep-learning pipeline for evolutionary model classification using neural networks and phylogenetic data | Building enterprise data warehouses and ETL pipelines at the University of Arkansas Data Lab
+### Hi there, I'm Surbhit 👋
 
-**👯 I'm looking to collaborate on**  
-Machine learning projects in large-scale data engineering solutions, and real-time analytics systems | Open-source tools for analysis and data visualization
+Data Scientist / ML Engineer building deep-learning pipelines, enterprise data warehouses, and real-time analytics systems that turn research into results.
 
-**🤝 I'm looking for help with**  
+**🔭 I'm currently working on**
+Developing PCMPy, a deep-learning pipeline for evolutionary model classification using neural networks and phylogenetic data | Building enterprise data warehouses and ETL pipelines, helping my professor secure a $250K USD grant | Driving assortment analytics automation at Walmart (back-wrapping tools, Dataiku pipelines, trait validation scripts)
+
+**👯 I'm looking to collaborate on**
+Machine learning projects in large-scale data engineering solutions, and real-time analytics systems | Open-source tools for data analysis and visualization | Cloud-native ETL and dimensional modeling projects
+
+**🤝 I'm looking for help with**
 Advanced neural network architectures for biological data, distributed systems optimization, and scalable cloud infrastructure design
 
-**🌱 I'm currently learning**  
+**🌱 I'm currently learning**
 Advanced deep learning frameworks (TensorFlow/PyTorch), cloud-native data engineering (Azure/AWS), and modern MLOps practices for production-grade ML systems
 
-**💬 Ask me about**  
-Machine learning pipeline development, SQL optimization, data warehouse design, phylogenetic analysis, Python/R for data science, or transitioning from computer science to data engineering
+**💬 Ask me about**
+Machine learning pipeline development, SQL optimization, data warehouse design, phylogenetic analysis, Python/R for data science, ETL/dimensional modeling, or transitioning from computer science to data engineering
 
-**⚡ Fun fact**  
+**📊 Some numbers from my work**
+99% test accuracy classifying evolutionary models (BM vs. OU) in PCMPy | $250K in research grant funding secured | 99.8% data integrity across 20,000+ student records | 85% query performance improvement via T-SQL optimization | 94% reduction in manual floorplan processing time at Walmart
+
+**⚡ Fun fact**
 I led my university's sports team to an Inter-NIT championship while simultaneously tutoring students in an NGO. I thrive on balancing competitive excellence with helping others succeed!
+
+**📫 How to reach me**
+surbhitwork15@gmail.com | LinkedIn | GitHub
 
 
 ## 🌐 Socials:
