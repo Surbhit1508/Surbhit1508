@@ -87,5 +87,5 @@ I captained my university's team to an **Inter-NIT championship** while tutoring
 </p>
 
 <p align="center">
-  📫 <b>surbhitwork15@gmail.com</b> &nbsp;|&nbsp; <a href="https://github.com/Surbhit1508">GitHub</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/surbhit-jangra-6939351b3">LinkedIn</a>
+  📫 <b>surbhitwork15@gmail.com</b> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/surbhit-jangra-6939351b3">LinkedIn</a>
 </p>
