@@ -1,92 +1,37 @@
-<h1 align="center">Hi 👋, I'm Surbhit Jangra</h1>
-<h3 align="center">Data Scientist & ML Engineer turning research into production-grade data systems</h3>
+# Surbhit Jangra
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+PCMPy+%E2%80%94+deep+learning+for+phylogenetics;Designing+enterprise+data+warehouses+%26+ETL+pipelines;Helped+secure+%24250K+in+research+grant+funding;Turning+messy+data+into+real-time+decisions" alt="Typing SVG" />
-</p>
+**Data Scientist: statistical ML, evaluation and the data pipelines underneath**
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surbhitwork15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Walmart Assortment Analytics · University of Arkansas research · Fayetteville, AR
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhit-jangra-6939351b3)
+[![Email](https://img.shields.io/badge/surbhitwork15@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:surbhitwork15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=bento&logoColor=white)](https://bento.me/surbhitwork15)
+
+I build models that come with an honest answer to "how do you know?": held-out evaluation, calibrated uncertainty and significance tests. I also build the SQL and Python pipelines that feed them.
 
 ---
 
-### 🔭 What I'm building right now
+## Selected projects
 
-- **PCMPy** — a deep-learning pipeline that classifies evolutionary models (Brownian Motion vs. Ornstein-Uhlenbeck) from phylogenetic trait data, hitting **99% test accuracy** with a ReLU(6)/SoftMax/Adam stack, dropout, and batch norm
-- **Enterprise data warehouses & ETL pipelines** at the University of Arkansas, work that helped my professor secure **$250K** in research grant funding
-- **Assortment analytics automation at Walmart** — back-wrapping tools, Dataiku ingestion pipelines, and trait validation scripts cutting manual review time by up to 94%
-
-### 👯 Looking to collaborate on
-
-- ML projects at the intersection of large-scale data engineering and real-time analytics
-- Open-source tooling for data analysis and visualization
-- Cloud-native ETL and dimensional modeling projects
-
-### 🤝 Looking for help with
-
-- Advanced neural network architectures for biological and phylogenetic data
-- Distributed systems optimization
-- Scalable cloud infrastructure design
-
-### 🌱 Currently leveling up in
-
-- Deep learning frameworks — **TensorFlow** & **PyTorch**
-- Cloud-native data engineering on **Azure** and **AWS**
-- MLOps practices for production-grade ML systems
-
-### 💬 Ask me about
-
-Machine learning pipeline development · SQL optimization · data warehouse design · phylogenetic analysis · Python/R for data science · ETL & dimensional modeling · moving from computer science into data engineering
-
----
-
-### 📊 Impact by the numbers
-
-<div align="center">
-
-| Metric | Result |
+| Project | What it shows |
 |---|---|
-| PCMPy evolutionary model classification accuracy | **99%** |
-| Research grant funding secured | **$250,000** |
-| Data integrity across 20,000+ student records | **99.8%** |
-| Query performance improvement (T-SQL optimization) | **85%** |
-| Manual floorplan processing time reduced | **94%** |
-| Executive dashboard utilization across 40+ KPIs | **94%** |
+| [**Hospital Operations Intelligence Suite**](https://github.com/Surbhit1508/Hospital-Ops-Suite) | One end-to-end pipeline on real public data: forecasting, readmission classification, length-of-stay regression, clinical-note NLP and bed-allocation LP. Gradient boosting beats logistic regression on readmission (ROC-AUC 0.685 vs 0.669, p<0.0001). The project also traced a fake downstream "capacity crisis" back to a class-imbalance bug in the upstream NLP model. |
+| [**RAGBench**](https://github.com/Surbhit1508/RAG-Bench) | Controlled evaluation of 9 RAG configurations on a 150-question benchmark, using paired bootstrap tests. Finding: top-5 retrieval keeps hit rate (p=0.26) but significantly lowers answer F1 (p<0.0001). Runs 100% locally on CPU. |
+| [**Exam Score Predictor**](https://github.com/Surbhit1508/exam-score-predictor) | Streamlit app with gradient boosting (holdout R² 0.888, MAE 3.2), conformalized quantile intervals (80% nominal → 80% empirical coverage), exact Shapley values written from scratch and a lowest-effort study-plan optimizer. Tested with CI. |
 
-</div>
+## Experience highlights
 
----
+- **Walmart, Assortment Analytics:** Built Python and Dataiku automation for back-wrapping, data ingestion and trait validation. It cut manual floorplan review time by up to 94%.
+- **University of Arkansas, research data engineering:** Designed a SQL Server data warehouse and ETL pipelines over 20,000+ student records. Tuned T-SQL queries for an 85% speedup. The platform supported a $250K research grant awarded to the lab.
+- **PCMPy (research):** A deep-learning classifier that tells Brownian Motion from Ornstein-Uhlenbeck trait evolution on phylogenies. It reached 99% test accuracy.
 
-### 🛠️ Tech stack
+## Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,azure,aws,mysql,kubernetes,cpp,git,html,css,js&perline=8" />
-</p>
-
----
-
-### ⚡ Fun fact
-
-I led my university's sports team to an **Inter-NIT championship** while simultaneously tutoring students through an NGO. I thrive on balancing competitive excellence with helping others succeed — and I bring that same drive to every collaborative build, whether it's a neural net or a data pipeline.
+**Core:** Python (pandas, scikit-learn, PyTorch) · SQL (T-SQL / SQL Server, PostgreSQL) · R
+**Data & BI:** Dataiku · ETL & dimensional modeling · Tableau · Power BI · Streamlit
+**Cloud & tooling:** Azure · AWS · Git · GitHub Actions · pytest
 
 ---
 
-<p align="center">
-  <em>Currently based in Fayetteville, Arkansas · Open to conversations on ML, data engineering, and everything in between</em>
-</p>
-
-<p align="center">
-  📫 <b>surbhitwork15@gmail.com</b> &nbsp;|&nbsp; <a href="https://github.com/YOUR-USERNAME">GitHub</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-</p>
-
-<!--
-  📝 Note: the quote widget above refreshes with a new random dev quote every time your
-  profile page loads. If you'd rather have a rotating "fun fact / random thought" of your
-  own instead of a generic dev quote, just tell me and I'll swap it for a custom list.
--->
+<sub>Former Inter-NIT champion team captain and NGO tutor.</sub>
