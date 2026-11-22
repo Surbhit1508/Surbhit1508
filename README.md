@@ -54,7 +54,7 @@ ML pipeline development · model evaluation and significance testing · SQL opti
 | Metric | Result |
 |---|---|
 | Manual floorplan review time cut at Walmart | **up to 94%** |
-| Research grant supported by the data platform I built | **$250,000** |
+| Research grant supported by the ML models I built | **$250,000** |
 | T-SQL query performance improvement (University of Arkansas warehouse) | **85%** |
 | Exam Score Predictor: holdout R² / mean absolute error | **0.888 / 3.2 pts** |
 | Exam Score Predictor: 80% interval empirical coverage | **80%** |
